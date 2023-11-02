@@ -16,6 +16,7 @@ github.com/hbstack/bigger-picture v0.9.2/go.mod h1:CficQfdxEJx1U/5JOUOSgAqkH40Xx
 github.com/hbstack/blog v0.19.1 h1:BygtecI4KcuxdBk7WqCYUFDFehzwl6gNCI12Okv2hK4=
 github.com/hbstack/blog v0.19.1/go.mod h1:dKyXHRCRkEA1MzCYPUDu4RhEKDZZ/0zEjveJ0rRPj/k=
 github.com/hbstack/blog v0.19.2/go.mod h1:dKyXHRCRkEA1MzCYPUDu4RhEKDZZ/0zEjveJ0rRPj/k=
+github.com/hbstack/blog v0.20.0/go.mod h1:54hUZXBYs1tBUVH2ogb2xxXPLMLqTDHmLbwEXt/czJ8=
 github.com/hbstack/blog/modules/breadcrumb v0.1.22 h1:NDcjR5805LBDRcLaDF12VAIAJiRqCL/e/GX+1DE7O0k=
 github.com/hbstack/blog/modules/breadcrumb v0.1.22/go.mod h1:abqj7FTsHihbv3B2szGm4YmVGVZWzWg2VVA5ZhqUyKY=
 github.com/hbstack/blog/modules/content-panel v0.1.21 h1:g43IVjn3O6QCQSvCbgr9iYCgZcI5XG8YAiuVPb269Ok=
@@ -182,6 +183,7 @@ github.com/hugomods/seo/modules/base v0.1.0 h1:ZEkWuYeRJeQakBkBThO3N3lmGzOZoPixs
 github.com/hugomods/seo/modules/base v0.1.0/go.mod h1:qfm1Vga0eGxL+Szgz8Jopm+NtJ5PGov2a2dikTg1qSg=
 github.com/hugomods/seo/modules/favicons v0.2.0 h1:pzQMocbHHMNNiuE5vsCxE4qqaJBprYAUX4EOoiF+ynM=
 github.com/hugomods/seo/modules/favicons v0.2.0/go.mod h1:xFDhrpWUZR4NMMVkilzT6xFBHiF5eyCQ8PlzOS2K9lY=
+github.com/hugomods/seo/modules/favicons v0.2.1/go.mod h1:xFDhrpWUZR4NMMVkilzT6xFBHiF5eyCQ8PlzOS2K9lY=
 github.com/hugomods/seo/modules/open-graph v0.1.0 h1:Whveal1j1n2xZWcAlNAd2rdfKp7Fh5apol36wLGLb54=
 github.com/hugomods/seo/modules/open-graph v0.1.0/go.mod h1:G7mXf7D1QtRN/i7A9v+cUF5P55H/QaxRqxJ8tp9fVq4=
 github.com/hugomods/seo/modules/schema v0.1.1 h1:8IuJxCOxk9pfKpCFMik5fDCX7zaFwkGoeKacnYV0sgA=
